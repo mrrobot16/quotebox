@@ -5,8 +5,9 @@ export class BoxService {
   public quotes: Array<any>;
   public quote: string;
   public author: string;
+
   constructor() {
-    this.quotes = []
+    
   }
 
 }

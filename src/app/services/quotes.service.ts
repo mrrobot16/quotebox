@@ -272,15 +272,12 @@ export class QuotesService {
       },
     ];
 
-    this.genQuote(this.quotes);
-
   }
 
-  genQuote(quotes){
+  genQuote(){
+    var quotes = this.quotes
     var random_quote = quotes[Math.floor(Math.random() * quotes.length)];
-    console.log("RANDOM QUOTE:");
-    console.log(random_quote.quote);
-    return random_quote;
+    return random_quote.quote;
   }
 
 }
