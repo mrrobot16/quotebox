@@ -9,16 +9,16 @@ import {QuotesService} from './services/quotes.service';
   styleUrls: ['quotebox.component.css']
 })
 export class QuoteboxAppComponent {
+
   public quote: string;
+  public author: string;
+
   constructor(private quotes_service: QuotesService){
     this.quote = null;
-    this.tapQuote();
+    this.author = "Craig J Lewis";
   }
 
   tapQuote(){
     this.quote = this.quotes_service.genQuote();
-    console.log("this.quote in QuoteBox component");
-    console.log('this.quote');
-    console.log(this.quote);
   }
 }

@@ -31,7 +31,7 @@ export class QuotesService {
       author: ''
       },
       {
-      quote: "Purpose cant be quantified with metrics, it can only be realized w/ the understanding of multiplying your dreams and efforts.",
+      quote: "Purpose can't be quantified with metrics, it can only be realized w/ the understanding of multiplying your dreams and efforts.",
       author: ''
       },
       {
@@ -59,11 +59,11 @@ export class QuotesService {
       author: ''
       },
       {
-      quote: "The start has startled a lot of people. Dont be afraid of being a beginner.",
+      quote: "The start has startled a lot of people. Don't be afraid of being a beginner.",
       author: ''
       },
       {
-      quote: "Dreaming of winning doesnt make you a winner, winning makes you a winner.",
+      quote: "Dreaming of winning doesn't make you a winner, winning makes you a winner.",
       author: ''
       },
       {
@@ -143,7 +143,7 @@ export class QuotesService {
       author: ''
       },
       {
-      quote: "You cant build an A team, with B players. #startups",
+      quote: "You can't build an A team, with B players. #startups",
       author: ''
       },
       {
@@ -163,7 +163,7 @@ export class QuotesService {
       author: ''
       },
       {
-      quote: "I do not wake up everyday to be a witness. Success isnt a spectator sport.",
+      quote: "I do not wake up everyday to be a witness. Success isn't a spectator sport.",
       author: ''
       },
       {
@@ -175,7 +175,7 @@ export class QuotesService {
       author: ''
       },
       {
-      quote: "Whats on the other side of fear? Nothing.",
+      quote: "What's on the other side of fear? Nothing.",
       author: ''
       },
       {
@@ -195,7 +195,7 @@ export class QuotesService {
       author: ''
       },
       {
-      quote: "We arent concerned w/ designing a great vacation package 4our team were more focused on building a company where they dont want a vacation #culture",
+      quote: "We aren't concerned w/ designing a great vacation package 4our team were more focused on building a company where they don't want a vacation #culture",
       author: ''
       },
       {
@@ -215,7 +215,7 @@ export class QuotesService {
       author: ''
       },
       {
-      quote: "Everyone has an opinion, dont be distracted from your vision.",
+      quote: "Everyone has an opinion, don't be distracted from your vision.",
       author: ''
       },
       {
@@ -231,11 +231,11 @@ export class QuotesService {
       author: ''
       },
       {
-      quote: "Why not build a biz thats orders of magnitude better than any1 else 4every1 involved. If u arent going 2 build one, join one and go hard.",
+      quote: "Why not build a biz thats orders of magnitude better than any1 else 4every1 involved. If u aren't going 2 build one, join one and go hard.",
       author: ''
       },
       {
-      quote: "Being 0 #Revenue BY CHOICE lets you focus solely on hyper-fast customer growth & rely on the financial markets4, I couldnt imagine building a startup w/out a designer itd be like so pointless!",
+      quote: "Being 0 #Revenue BY CHOICE lets you focus solely on hyper-fast customer growth & rely on the financial markets4, I couldn't imagine building a startup w/out a designer itd be like so pointless!",
       author: ''
       },
       {

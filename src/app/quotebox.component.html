@@ -1,1 +1,19 @@
-<h1>HELLO WORLD</h1>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tangerine">
+<div class="container">
+  <h1>QuoteBox</h1>
+
+  <div id="box">
+    <div id="author">
+      <h2>{{ author }}</h2>
+    </div>
+
+    <div class="button" (click)="tapQuote()">
+      <p>Tap me</p>
+    </div>
+  <br>
+    <div class="quote_box">
+      <p id ="quote">{{ quote }}</p>
+    </div>
+  </div>
+
+</div>
